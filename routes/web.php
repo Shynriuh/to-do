@@ -28,4 +28,3 @@ Route::patch('/todos/{id}', [TodosController::class, 'update'])->name('todos-upd
 Route::delete('/todos/{id}', [TodosController::class, 'destroy'])->name('todos-destroy');
 
 Route::resource('categories', CategoriesController::class);
-// Modificacion de prueba
