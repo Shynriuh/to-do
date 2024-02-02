@@ -50,6 +50,6 @@
 
 @yield('content') <!-- Se crea plantilla de app? Aqui es donde
                         inicia para modificar la plantilla -->
-
+<!-- Modificacion aca -->
 </body>
 </html>
